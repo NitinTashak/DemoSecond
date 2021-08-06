@@ -17,5 +17,10 @@ public class classOne
 	{
 		System.out.println("Third");
 	}
+	@Test
+	public void fourth()
+	{
+		System.out.println("fourth");
+	}
 
 }
