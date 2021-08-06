@@ -12,5 +12,10 @@ public class classOne
 	{
 		System.out.println("Second");
 	}
+	@Test
+	public void third()
+	{
+		System.out.println("Third");
+	}
 
 }
