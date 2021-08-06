@@ -27,5 +27,10 @@ public class classOne
 	{
 		System.out.println("five");
 	}
+	@Test
+	public void Architect1()
+	{
+		System.out.println("");
+	}
 
 }
