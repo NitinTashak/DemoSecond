@@ -7,5 +7,10 @@ public class classOne
 	{
 		System.out.println("first");
 	}
+	@Test
+	public void second()
+	{
+		System.out.println("Second");
+	}
 
 }
