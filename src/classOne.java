@@ -46,7 +46,10 @@ public class classOne
 	@Test
 	public void newMethod()
 	{
-		System.out.println("");
+		System.out.println("1hihi shia hdd");
+		System.out.println("2hihi shia hdd");
+		System.out.println("3hihi shia hdd");
+		System.out.println("4hihi shia hdd");
 	}
 
 }
