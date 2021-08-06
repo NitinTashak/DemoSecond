@@ -32,5 +32,11 @@ public class classOne
 	{
 		System.out.println("");
 	}
+	@Test
+	public void Architect2()
+	{
+		System.out.println("");
+	}
+
 
 }
