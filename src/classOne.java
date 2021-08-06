@@ -42,8 +42,9 @@ public class classOne
 	{
 		System.out.println("");
 	}
+	
 	@Test
-	public void Architect3()
+	public void newMethod()
 	{
 		System.out.println("");
 	}
